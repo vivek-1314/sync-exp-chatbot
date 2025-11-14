@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+langchain==0.1.16
+langchain-core
+faiss-cpu
+sentence-transformers
+numpy
+beautifulsoup4
+requests
+pdfplumber
+google-generativeai
+python-dotenv
+pydantic

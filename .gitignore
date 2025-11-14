@@ -1,0 +1,9 @@
+venv/
+*.dll
+*.pdf
+__pycache__/
+*.pt
+*.bin
+*.ckpt
+*.mp4
+*.zip
